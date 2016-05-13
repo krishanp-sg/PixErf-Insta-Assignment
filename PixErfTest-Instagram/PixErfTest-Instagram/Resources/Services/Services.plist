@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Instagram</key>
+	<dict>
+		<key>ClientId</key>
+		<string>84e13371ded14e1d9c9389f2e2ed0ca1</string>
+		<key>ClientSecret</key>
+		<string>7dad41109b8645729aac39495c566b08</string>
+		<key>RedirectUri</key>
+		<string>Oauth-PixErf://com.krishan.PixErfTest-Instagram/instagram</string>
+	</dict>
+</dict>
+</plist>

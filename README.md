@@ -11,7 +11,7 @@ Swift iOS Application which uses OAuth to retrive user media from Instagram.
 <p>
   <h3> Library Used </h3>
   </br>
-  <ul>OAuthSwift - <href>https://github.com/OAuthSwift/OAuthSwift.git</href></ul>
+  <ul>OAuthSwift - <href target="_blank">https://github.com/OAuthSwift/OAuthSwift.git</href></ul>
   <ul>Alamofire - <href>https://github.com/Alamofire/Alamofire.git</href></ul>
   <ul>AlamofireImage - <href>https://github.com/Alamofire/AlamofireImage.git</href></ul>
   <ul>MBProgressHUD - <href>https://github.com/jdg/MBProgressHUD.git</href></ul>
